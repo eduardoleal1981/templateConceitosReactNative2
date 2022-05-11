@@ -1,0 +1,1 @@
+# templateConceitosReactNative2
